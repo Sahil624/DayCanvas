@@ -1,0 +1,6 @@
+Django==5.1.2
+djangorestframework==3.15.2
+anthropic==0.37.1
+django-cors-headers==4.5.0
+google-generativeai @ git+https://github.com/google-gemini/generative-ai-python@e09b902274ebf405c55f0b3bd5b6affd61e5de02
+python-dotenv==1.0.1
